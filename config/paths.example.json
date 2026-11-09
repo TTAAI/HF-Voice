@@ -1,0 +1,5 @@
+{
+  "labels": "data/labels.csv",
+  "folds": "data/cohort_fold_manifest.csv",
+  "features": "data/features"
+}
